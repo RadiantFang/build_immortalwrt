@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 ###############改名字##############
-name: Redmi-AX6000-hanwckf
+name: Redmi-AX6000-immortalwrt
 
 on:
   repository_dispatch:
