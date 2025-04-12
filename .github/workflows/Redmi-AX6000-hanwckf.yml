@@ -33,7 +33,7 @@ env:
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
   ###############改名字##############
-  OPENWRT_NAME: hanwckf
+  OPENWRT_NAME: Fm
 
 jobs:
   build:
